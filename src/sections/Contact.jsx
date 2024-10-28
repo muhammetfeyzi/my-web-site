@@ -88,7 +88,7 @@ const Contact = () => {
                 onChange={handleChange}
                 required
                 className="field-input"
-                placeholder="ex., John Doe"
+                placeholder="ex.,Linart Creative"
               />
             </label>
 
@@ -101,10 +101,9 @@ const Contact = () => {
                 onChange={handleChange}
                 required
                 className="field-input"
-                placeholder="ex., johndoe@gmail.com"
+                placeholder="ex., linaartcreative@gmail.com"
               />
             </label>
-
             <label className="space-y-3">
               <span className="field-label">Your message</span>
               <textarea
